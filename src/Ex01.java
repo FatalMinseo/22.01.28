@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class Ex01 {
 
 	public static void main(String[] args) {
-
+	// ?
 		Scanner sc = new Scanner(System.in);
 
 		int[] array = new int[5];
-		System.out.println("�� �ִ� ¦���� ");
+		System.out.println("µé¾î°¡ ÀÖ´Â Â¦¼ö´Â ");
 		for (int a = 0; a <= array.length; a++) {
 			array[a] = sc.nextInt();
 			
